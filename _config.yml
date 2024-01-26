@@ -15,6 +15,10 @@ title: My website
 # Your name to show in the footer
 author: Some Person
 
+# Base blog settings
+baseurl: "/beautiful-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
